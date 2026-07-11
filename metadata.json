@@ -1,0 +1,6 @@
+{
+  "name": "Data Platform Architect Simulator",
+  "description": "An interactive full-stack playground simulating ingestion, Kafka queueing, Spark streaming, a Postgres warehouse, dbt, ML predictions, and real-time analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
